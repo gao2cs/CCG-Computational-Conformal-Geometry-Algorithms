@@ -1,3 +1,3 @@
 # CCG
 
-# Finished ... Hidden
+Finished ... Hidden
